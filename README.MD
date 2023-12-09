@@ -7,4 +7,5 @@ This repository contains a collection of Python scripts leveraging the curses li
 Feel free to clone the repository and play with codes.
 
 For better experience run the code in terminal:
+
 python3 script_name.py
